@@ -1,0 +1,73 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-image:url(image/w17.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	font-family:new time roman;
+}
+h1{
+	margin-top:30px;
+	text-align:center;
+	margin-bottom:70px;
+	color:white;
+}
+
+
+
+.label{
+	font-size:18px;
+	margin-top:15px;
+	color:white;
+	font-weight:normal;
+	text-align:center-left;
+	
+	
+}
+.form-control{
+	background:rgba(0,0,0,0.7);
+	border-radius:0px;
+	border:0px;
+	margin-top:9px;
+	font-size:10px;
+	color:white;
+	height:25px;
+	text-align:center-left;
+	
+}
+
+.btn-info{
+	
+	
+	
+	background:rgb(60, 179, 113);
+	
+	border-radius:0px;
+	border:0px;
+	margin-top:5px;
+	font-size:10px;
+	color:white;
+	height:25px;
+	text-align:center-left;
+	
+	
+}
+
+.col-md-6{
+	background:rgba(0,0,0,0.4);
+	height:660px;
+	box-shadow:-1px 1px 60px 10px black inset;
+}
+
+
+.btn-warning{
+	margin-top:20px;
+	font-size:18px;
+	width:120px;
+	margin-bottom:20px;
+}
+
+
